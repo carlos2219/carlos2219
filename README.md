@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Auquilla, I´m a Mecahtronics Engineering student at Tecnológico de Monterrrey, México
+- 👋 Hi, I’m Carlos Auquilla, Mechatronics Engineering student at Tecnológico de Monterrrey, México
 - 👀 I’m interested in Control Systems, Embedded firmware and Robotics.
 - 🌱 I’m currently learning Advanced Control System Techniques.
 - 📫 How to reach me A00834778@tec.mx carlosauquillal@gmail.com 
