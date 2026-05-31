@@ -41,7 +41,6 @@
 
 **Simulation & ROS**
 ![ROS2](https://img.shields.io/badge/ROS%202-388bfd?style=flat-square)
-![CARLA](https://img.shields.io/badge/CARLA-388bfd?style=flat-square)
 ![Isaac%20Sim](https://img.shields.io/badge/Isaac%20Sim-388bfd?style=flat-square)
 
 </td>
