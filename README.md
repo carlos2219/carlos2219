@@ -2,25 +2,27 @@
 <h3 align="center">Embedded Systems & Autonomous Systems Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=30BC89&width=600&lines=Embedded+Firmware+%7C+Avionics+eCAD+%7C+Autonomous+Systems;C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+FreeRTOS;MATLAB%2FSimulink+%7C+ROS+%7C+Reinforcement+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=30BC89&width=600&lines=Embedded+Firmware+%7C+Avionics+eCAD+%7C+Autonomous+Systems;C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+FreeRTOS;MATLAB%2FSimulink+%7C+ROS+%2F+Gazebo+%7C+HIL%2FSIL" alt="Typing SVG" />
 </p>
 
 <p align="center">
 <a href="mailto:carlosauquillal@gmail.com"><img src="https://img.shields.io/badge/Email-carlosauquillal%40gmail.com-30bc89?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/carlos-auquillal"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/carlos-auquilla"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a **Mechanical & Autonomous Systems Control Engineer**, graduated from **Tecnológico de Monterrey with honorable mention (mención de excelencia)**. I work at the intersection of embedded firmware, custom avionics hardware, and control theory — building the systems that let autonomous vehicles sense, decide, and act.
+I'm a **Mechatronics Engineer** specializing in embedded control and autonomous systems, graduated from **Tecnológico de Monterrey** (GPA 95.91/100) with a minor in **Autonomy of Unmanned Aerial Vehicles**. I hold the **CENEVAL EGEL-PLUS National Excellence Award** — a top-tier distinction awarded to the top ~10% of Mechatronics Engineering graduates nationally in Mexico — and graduated with honors (top 10% of cohort).
 
-- 🔬 **R&D @ AIST (National Institute of Advanced Industrial Science and Technology, Japan)** — Research Intern in the Task Intelligent Robotics Research Group, working on non-linear robotics control for soft inflatable robots, combining hierarchical trajectory control with **reinforcement learning (PPO on NVIDIA Isaac Sim)** for low-level actuation optimization.
-- 🚗 **Firmware Developer @ Vanttec** — designing and implementing embedded firmware for autonomous vehicle platforms.
-- 🎓 Mechanical & Autonomous Systems Control Engineering, Tec de Monterrey (Honorable Mention).
+My work sits at the intersection of embedded firmware, custom avionics/PCB design, and control theory:
 
-I care about systems that work reliably from silicon to simulation: real-time firmware, avionics-grade PCB design, and control algorithms validated through rigorous HIL/SIL testing before they ever fly or drive.
+- ⚙️ **Independent Engineering Consultant** — delivering full-cycle hardware-software product development (PCB design → embedded firmware → control validation) for clients in industrial, medical, and agricultural sectors. Altium Designer certified (Expert + Mixed-Signal Simulation).
+- 🔬 **Research Intern @ AIST** (National Institute of Advanced Industrial Science and Technology, Tokyo) — investigated closed-loop control strategies for pneumatic actuation systems under variable dynamic loads, building Python-based simulation and diagnostic tools for actuator behavior modeling.
+- 🚗 **Embedded Control Firmware Developer @ VantTec** Autonomous Systems Research Group — real-time control firmware for autonomous robotic platforms, validated via Hardware-in-the-Loop (HIL) testing before physical deployment.
+
+I'm looking to deepen this expertise through a master's degree in embedded systems and autonomous control, aiming to apply it in industry — particularly at autonomous systems and robotics companies building next-generation embedded platforms.
 
 ---
 
@@ -39,7 +41,7 @@ I care about systems that work reliably from silicon to simulation: real-time fi
 ![UAV Avionics](https://img.shields.io/badge/UAV%20Avionics-8957e5?style=for-the-badge)
 ![Flight%20Controllers](https://img.shields.io/badge/Flight%20Controllers-8957e5?style=for-the-badge)
 
-Complex PCB design for UAV/drone avionics integration — flight controllers (FC), electronic speed controllers (ESC), and companion computers.
+Multilayer PCB design and simulation (Altium Designer — Expert + Mixed-Signal Simulation certified), from schematic capture through pre-fabrication validation, with hands-on avionics integration for UAVs/drones: flight controllers (FC), electronic speed controllers (ESC), and companion computers.
 
 ### Control & Simulation
 ![MATLAB](https://img.shields.io/badge/MATLAB-30bc89?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -47,20 +49,19 @@ Complex PCB design for UAV/drone avionics integration — flight controllers (FC
 ![ROS](https://img.shields.io/badge/ROS-30bc89?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-30bc89?style=for-the-badge&logo=gazebo&logoColor=white)
 ![HIL/SIL](https://img.shields.io/badge/HIL%2FSIL%20Testing-30bc89?style=for-the-badge)
-![PPO/RL](https://img.shields.io/badge/PPO%2FRL-30bc89?style=for-the-badge)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-30bc89?style=for-the-badge&logo=nvidia&logoColor=white)
+
+Model-based design (PID, LQR, MPC, state-space); experimental HIL/SIL validation on Quanser infrastructure; sim-to-real transfer.
 
 ---
 
 ## 🚀 Featured Projects
 
-> Curated avionics and drone-systems work — repositories linked as they're published.
-
-| Project | Domain | Tech Stack | Status |
-|---------|--------|-----------|--------|
+| Project | Domain | Tech Stack | Key Result |
+|---------|--------|-----------|-----------|
+| **SAE AeroDesign Mexico — Electronics Lead** | Avionics | Sensor integration, power management, avionics design | Led electronics subsystem for Tec de Monterrey's entry in the 13th SAE AeroDesign Mexico international competition |
+| **MPC Trajectory Control: Quanser Quadrotor** | UAV Control | MPC, MATLAB/Simulink, HIL (Quanser) | Real-time trajectory tracking validated via Hardware-in-the-Loop testing |
 | **UAV Flight Controller PCB** | Avionics eCAD | Altium, STM32, IMU/GPS integration | 🔜 Coming soon |
-| **Companion Computer Integration** | Onboard Compute | ESP32, MAVLink, FreeRTOS | 🔜 Coming soon |
-| **Drone ESC Design & Validation** | Power Electronics | KiCad, HIL Testing | 🔜 Coming soon |
 
 <details>
 <summary><b>📦 Other Projects</b></summary>
@@ -68,11 +69,19 @@ Complex PCB design for UAV/drone avionics integration — flight controllers (FC
 
 | Project | Tech Stack | Key Result |
 |---------|-----------|-----------|
-| **MPC Antisway Drone Controller** | MPC, Quadrotor Dynamics, ROS 2, Python | State estimator without load sensors; smooth trajectory tracking under disturbance |
-| **Ackermann Autonomous Vehicle** | STM32, C/C++, PID, IMU+Ultrasonic | Full kinematic derivation → embedded implementation → validated navigation |
-| **Modular Payload Deployment System** | Spherical Pendulum Model, GD&T/ASME Y14.5, HIL Testing | 25% part count reduction, impact velocity <5 m/s |
+| **Digital Twin: ABB Industrial Robotic Welding Cell** | PLC logic, safety interlocks, process simulation | Presented to ABB Mexico engineering leadership |
+| **Autonomous Ground Vehicle (John Deere Collaboration)** | STM32, C/C++, PID, IMU + ultrasonic fusion | Ackermann-steered scaled vehicle: motor control, velocity feedback, orientation control |
+| **MIT.nano Microfabrication Program** | Micro-manufacturing | Selected participant, Tec–MIT collaborative program, Cambridge, USA |
 
 </details>
+
+---
+
+## 🏆 Awards & Recognition
+
+- **CENEVAL EGEL-PLUS National Excellence Award (*Excelencia*)** — 414 of 3,922 examinees nationally (10.56%), Mechatronics Engineering programs in Mexico (2025)
+- **Graduation with Honors** — Top 10% of cohort, Tec de Monterrey Campus Monterrey (2025)
+- **John Deere Manufacturing Challenge — Honorable Mention** — optimized welding process materials and workflow (2023)
 
 ---
 
@@ -98,5 +107,5 @@ Complex PCB design for UAV/drone avionics integration — flight controllers (FC
 ---
 
 <p align="center">
-📬 <a href="mailto:carlosauquillal@gmail.com">carlosauquillal@gmail.com</a> · <a href="https://linkedin.com/in/carlos-auquillal">LinkedIn</a>
+📬 <a href="mailto:carlosauquillal@gmail.com">carlosauquillal@gmail.com</a> · <a href="https://linkedin.com/in/carlos-auquilla">LinkedIn</a>
 </p>
