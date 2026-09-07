@@ -164,6 +164,14 @@ I'm currently taking on new freelance and consulting projects in embedded firmwa
 ## 📊 GitHub Activity
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlos2219/carlos2219/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlos2219/carlos2219/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/carlos2219/carlos2219/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27MATLAB%27%2C%27C%2B%2B%27%2C%27C%27%2C%27Python%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B7%2C3%2C3%2C1%5D%2CbackgroundColor%3A%5B%27%23e16737%27%2C%27%23f34b7d%27%2C%27%238b949e%27%2C%27%233572A5%27%5D%2CborderWidth%3A3%2CborderColor%3A%27transparent%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%23c9d1d9%27%2CfontSize%3A16%7D%7D%7D%7D&width=420&height=260&backgroundColor=transparent&devicePixelRatio=2">
   <img width="360" alt="Repository language distribution: MATLAB 7, C++ 3, C 3, Python 1" src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27MATLAB%27%2C%27C%2B%2B%27%2C%27C%27%2C%27Python%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B7%2C3%2C3%2C1%5D%2CbackgroundColor%3A%5B%27%23e16737%27%2C%27%23f34b7d%27%2C%27%238b949e%27%2C%27%233572A5%27%5D%2CborderWidth%3A3%2CborderColor%3A%27transparent%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%2324292f%27%2CfontSize%3A16%7D%7D%7D%7D&width=420&height=260&backgroundColor=transparent&devicePixelRatio=2">
