@@ -89,6 +89,44 @@ Model-based control design (PID, LQR, MPC) with experimental validation on Quans
 
 ---
 
+## 🏆 Credentials & Recognition — By the Numbers
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B95.91%2C4.09%5D%2CbackgroundColor%3A%5B%27%2330bc89%27%2C%27%2321262d%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A75%2Clegend%3A%7Bdisplay%3Afalse%7D%2Ctooltips%3A%7Benabled%3Afalse%7D%7D%7D&width=220&height=220&backgroundColor=transparent&devicePixelRatio=2">
+  <img width="150" alt="GPA 95.91 out of 100" src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B95.91%2C4.09%5D%2CbackgroundColor%3A%5B%27%231f9d6f%27%2C%27%23e8e8e8%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A75%2Clegend%3A%7Bdisplay%3Afalse%7D%2Ctooltips%3A%7Benabled%3Afalse%7D%7D%7D&width=220&height=220&backgroundColor=transparent&devicePixelRatio=2">
+</picture>
+<br><b>95.91 / 100 GPA</b><br>
+<sub>Tec de Monterrey, Mechatronics Engineering</sub>
+</td>
+<td align="center" width="33%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B89.44%2C10.56%5D%2CbackgroundColor%3A%5B%27%2358a6ff%27%2C%27%2321262d%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A75%2Clegend%3A%7Bdisplay%3Afalse%7D%2Ctooltips%3A%7Benabled%3Afalse%7D%7D%7D&width=220&height=220&backgroundColor=transparent&devicePixelRatio=2">
+  <img width="150" alt="Top 10.56 percent nationally" src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B89.44%2C10.56%5D%2CbackgroundColor%3A%5B%27%231f6feb%27%2C%27%23e8e8e8%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A75%2Clegend%3A%7Bdisplay%3Afalse%7D%2Ctooltips%3A%7Benabled%3Afalse%7D%7D%7D&width=220&height=220&backgroundColor=transparent&devicePixelRatio=2">
+</picture>
+<br><b>Top 10.56% Nationally</b><br>
+<sub>CENEVAL EGEL-PLUS Excelencia — 414 of 3,922 examinees</sub>
+</td>
+<td align="center" width="33%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B90%2C10%5D%2CbackgroundColor%3A%5B%27%23a371f7%27%2C%27%2321262d%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A75%2Clegend%3A%7Bdisplay%3Afalse%7D%2Ctooltips%3A%7Benabled%3Afalse%7D%7D%7D&width=220&height=220&backgroundColor=transparent&devicePixelRatio=2">
+  <img width="150" alt="Top 10 percent of cohort" src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Bdatasets%3A%5B%7Bdata%3A%5B90%2C10%5D%2CbackgroundColor%3A%5B%27%238957e5%27%2C%27%23e8e8e8%27%5D%2CborderWidth%3A0%7D%5D%7D%2Coptions%3A%7BcutoutPercentage%3A75%2Clegend%3A%7Bdisplay%3Afalse%7D%2Ctooltips%3A%7Benabled%3Afalse%7D%7D%7D&width=220&height=220&backgroundColor=transparent&devicePixelRatio=2">
+</picture>
+<br><b>Top 10% of Cohort</b><br>
+<sub>Graduation with Honors, Tec de Monterrey</sub>
+</td>
+</tr>
+</table>
+</div>
+
+- 🏅 **Altium Designer Certified** — Expert + Mixed-Signal Simulation
+- 🚜 **John Deere Manufacturing Challenge — Honorable Mention** (2023) for optimized welding process materials and workflow
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | Domain | Tech Stack | Key Result |
@@ -111,15 +149,6 @@ Model-based control design (PID, LQR, MPC) with experimental validation on Quans
 
 ---
 
-## 🏆 Credentials & Recognition
-
-- **CENEVAL EGEL-PLUS National Excellence Award (*Excelencia*)** — 414 of 3,922 examinees nationally (10.56%), Mechatronics Engineering programs in Mexico (2025)
-- **Graduation with Honors** — Top 10% of cohort, Tec de Monterrey Campus Monterrey (2025)
-- **Altium Designer Certified** — Expert + Mixed-Signal Simulation
-- **John Deere Manufacturing Challenge — Honorable Mention** — optimized welding process materials and workflow (2023)
-
----
-
 ## 🤝 Let's Work Together
 
 I'm currently taking on new freelance and consulting projects in embedded firmware, PCB/avionics design, and control systems validation. If you're building hardware that needs to sense, decide, and act reliably — let's talk.
@@ -132,26 +161,19 @@ I'm currently taking on new freelance and consulting projects in embedded firmwa
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<table>
-<tr>
-<td>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos2219&theme=github_dark&hide_border=true&show_icons=true)](https://github.com/carlos2219)
-
-</td>
-<td>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27MATLAB%27%2C%27C%2B%2B%27%2C%27C%27%2C%27Python%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B7%2C3%2C3%2C1%5D%2CbackgroundColor%3A%5B%27%23e16737%27%2C%27%23f34b7d%27%2C%27%238b949e%27%2C%27%233572A5%27%5D%2CborderWidth%3A3%2CborderColor%3A%27transparent%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%23c9d1d9%27%2CfontSize%3A16%7D%7D%7D%7D&width=420&height=260&backgroundColor=transparent&devicePixelRatio=2">
+  <img width="360" alt="Repository language distribution: MATLAB 7, C++ 3, C 3, Python 1" src="https://quickchart.io/chart?c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27MATLAB%27%2C%27C%2B%2B%27%2C%27C%27%2C%27Python%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B7%2C3%2C3%2C1%5D%2CbackgroundColor%3A%5B%27%23e16737%27%2C%27%23f34b7d%27%2C%27%238b949e%27%2C%27%233572A5%27%5D%2CborderWidth%3A3%2CborderColor%3A%27transparent%27%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7BfontColor%3A%27%2324292f%27%2CfontSize%3A16%7D%7D%7D%7D&width=420&height=260&backgroundColor=transparent&devicePixelRatio=2">
+</picture>
+<br><sub>Repository languages across published work</sub>
+<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=carlos2219&theme=github-dark-blue&hide_border=true)](https://github.com/carlos2219)
 
-</td>
-</tr>
-</table>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos2219&theme=github_dark&hide_border=true&layout=compact)](https://github.com/carlos2219)
-
-<div align="center">
+<br>
 
 📬 <a href="mailto:carlosauquillal@gmail.com">carlosauquillal@gmail.com</a> · <a href="https://linkedin.com/in/carlos-auquilla">LinkedIn</a>
 
