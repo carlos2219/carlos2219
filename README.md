@@ -1,28 +1,66 @@
-<h1 align="center">Carlos Hernán</h1>
-<h3 align="center">Embedded Systems & Autonomous Systems Engineer</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=30BC89&width=600&lines=Embedded+Firmware+%7C+Avionics+eCAD+%7C+Autonomous+Systems;C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+FreeRTOS;MATLAB%2FSimulink+%7C+ROS+%2F+Gazebo+%7C+HIL%2FSIL" alt="Typing SVG" />
-</p>
+# Carlos Hernán
 
-<p align="center">
-<a href="mailto:carlosauquillal@gmail.com"><img src="https://img.shields.io/badge/Email-carlosauquillal%40gmail.com-30bc89?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/carlos-auquilla"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=flat-square&logo=linkedin&logoColor=white" /></a>
-</p>
+### Embedded Systems & Autonomous Systems Engineer
+#### I turn ideas into flying, moving, thinking hardware — from schematic to firmware to field-tested control.
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=800&color=30BC89&width=600&lines=Full-Cycle+Hardware+%2B+Firmware+Product+Development;PCB+Design+%C2%B7+Embedded+Control+%C2%B7+UAV+Avionics;Available+for+Freelance+%26+Consulting+Projects" alt="Typing SVG" />
+
+![Available](https://img.shields.io/badge/status-available%20for%20projects-30bc89?style=flat-square)
+![Location](https://img.shields.io/badge/based%20in-Ecuador%20%2F%20remote-1f6feb?style=flat-square)
+![Education](https://img.shields.io/badge/Tec%20de%20Monterrey-Mechatronics%20Eng.-8957e5?style=flat-square)
+
+<a href="mailto:carlosauquillal@gmail.com"><img src="https://img.shields.io/badge/Email-carlosauquillal%40gmail.com-30bc89?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/carlos-auquilla"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+**🌐 Portfolio website — launching soon**
+
+</div>
+
+<br>
 
 ## 👋 About Me
 
-I'm a **Mechatronics Engineer** specializing in embedded control and autonomous systems, graduated from **Tecnológico de Monterrey** (GPA 95.91/100) with a minor in **Autonomy of Unmanned Aerial Vehicles**. I hold the **CENEVAL EGEL-PLUS National Excellence Award** — a top-tier distinction awarded to the top ~10% of Mechatronics Engineering graduates nationally in Mexico — and graduated with honors (top 10% of cohort).
+I'm a **Mechatronics Engineer** working at the intersection of embedded firmware, custom avionics hardware, and control theory. As an **independent engineering consultant**, I deliver full-cycle hardware-software product development — from PCB schematic to embedded firmware to validated control — for clients in industrial, medical, and agricultural sectors.
 
-My work sits at the intersection of embedded firmware, custom avionics/PCB design, and control theory:
+This practice is backed by a strong technical foundation:
 
-- ⚙️ **Independent Engineering Consultant** — delivering full-cycle hardware-software product development (PCB design → embedded firmware → control validation) for clients in industrial, medical, and agricultural sectors. Altium Designer certified (Expert + Mixed-Signal Simulation).
-- 🔬 **Research Intern @ AIST** (National Institute of Advanced Industrial Science and Technology, Tokyo) — investigated closed-loop control strategies for pneumatic actuation systems under variable dynamic loads, building Python-based simulation and diagnostic tools for actuator behavior modeling.
-- 🚗 **Embedded Control Firmware Developer @ VantTec** Autonomous Systems Research Group — real-time control firmware for autonomous robotic platforms, validated via Hardware-in-the-Loop (HIL) testing before physical deployment.
+- 🎓 **Tecnológico de Monterrey**, B.S. Mechatronics Engineering — GPA 95.91/100, minor in Autonomy of Unmanned Aerial Vehicles
+- 🏅 **CENEVAL EGEL-PLUS National Excellence Award** — top ~10% of Mechatronics Engineering graduates nationally in Mexico
+- 🔬 **Research Intern @ AIST** (National Institute of Advanced Industrial Science and Technology, Tokyo) — closed-loop control for pneumatic actuation systems
+- 🚗 **Embedded Control Firmware Developer @ VantTec** Autonomous Systems Research Group — real-time firmware validated via Hardware-in-the-Loop testing
 
-I'm looking to deepen this expertise through a master's degree in embedded systems and autonomous control, aiming to apply it in industry — particularly at autonomous systems and robotics companies building next-generation embedded platforms.
+I'm currently expanding this work into a full consulting practice and preparing to launch a **free portfolio website** to showcase past projects, case studies, and how I work with clients — while pursuing a master's degree in embedded systems and autonomous control.
+
+---
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔧 Embedded Firmware
+Real-time control firmware for STM32/ESP32 platforms — from motor control and sensor fusion to safety-critical logic, validated through HIL/SIL testing before deployment.
+
+</td>
+<td width="33%" valign="top">
+
+### 🖥️ PCB & Avionics Design
+Multilayer PCB design and simulation in **Altium Designer** (Expert + Mixed-Signal Simulation certified), including UAV/drone avionics: flight controllers, ESCs, and companion computer integration.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎛️ Control Systems Validation
+Model-based control design (PID, LQR, MPC) with experimental validation on Quanser HIL infrastructure and MATLAB/Simulink — turning theoretical control into field-proven behavior.
+
+</td>
+</tr>
+</table>
+
+> **Working with clients across industrial, medical, and agricultural sectors** — from requirements definition and system architecture to a fully validated hardware-software product.
 
 ---
 
@@ -41,8 +79,6 @@ I'm looking to deepen this expertise through a master's degree in embedded syste
 ![UAV Avionics](https://img.shields.io/badge/UAV%20Avionics-8957e5?style=for-the-badge)
 ![Flight%20Controllers](https://img.shields.io/badge/Flight%20Controllers-8957e5?style=for-the-badge)
 
-Multilayer PCB design and simulation (Altium Designer — Expert + Mixed-Signal Simulation certified), from schematic capture through pre-fabrication validation, with hands-on avionics integration for UAVs/drones: flight controllers (FC), electronic speed controllers (ESC), and companion computers.
-
 ### Control & Simulation
 ![MATLAB](https://img.shields.io/badge/MATLAB-30bc89?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-30bc89?style=for-the-badge&logo=mathworks&logoColor=white)
@@ -50,8 +86,6 @@ Multilayer PCB design and simulation (Altium Designer — Expert + Mixed-Signal 
 ![Gazebo](https://img.shields.io/badge/Gazebo-30bc89?style=for-the-badge&logo=gazebo&logoColor=white)
 ![HIL/SIL](https://img.shields.io/badge/HIL%2FSIL%20Testing-30bc89?style=for-the-badge)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-30bc89?style=for-the-badge&logo=nvidia&logoColor=white)
-
-Model-based design (PID, LQR, MPC, state-space); experimental HIL/SIL validation on Quanser infrastructure; sim-to-real transfer.
 
 ---
 
@@ -77,11 +111,24 @@ Model-based design (PID, LQR, MPC, state-space); experimental HIL/SIL validation
 
 ---
 
-## 🏆 Awards & Recognition
+## 🏆 Credentials & Recognition
 
 - **CENEVAL EGEL-PLUS National Excellence Award (*Excelencia*)** — 414 of 3,922 examinees nationally (10.56%), Mechatronics Engineering programs in Mexico (2025)
 - **Graduation with Honors** — Top 10% of cohort, Tec de Monterrey Campus Monterrey (2025)
+- **Altium Designer Certified** — Expert + Mixed-Signal Simulation
 - **John Deere Manufacturing Challenge — Honorable Mention** — optimized welding process materials and workflow (2023)
+
+---
+
+## 🤝 Let's Work Together
+
+I'm currently taking on new freelance and consulting projects in embedded firmware, PCB/avionics design, and control systems validation. If you're building hardware that needs to sense, decide, and act reliably — let's talk.
+
+<div align="center">
+
+<a href="mailto:carlosauquillal@gmail.com"><img src="https://img.shields.io/badge/📩_Start_a_project-carlosauquillal%40gmail.com-30bc89?style=for-the-badge" /></a>
+
+</div>
 
 ---
 
@@ -104,8 +151,10 @@ Model-based design (PID, LQR, MPC, state-space); experimental HIL/SIL validation
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos2219&theme=github_dark&hide_border=true&layout=compact)](https://github.com/carlos2219)
 
----
+<div align="center">
 
-<p align="center">
 📬 <a href="mailto:carlosauquillal@gmail.com">carlosauquillal@gmail.com</a> · <a href="https://linkedin.com/in/carlos-auquilla">LinkedIn</a>
-</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=carlos2219&style=flat-square&color=30bc89&label=Profile+Views)
+
+</div>
