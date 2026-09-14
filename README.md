@@ -21,7 +21,7 @@
 
 ## About
 
-I'm a Mechatronics Engineer working at the intersection of embedded firmware, avionics hardware, and control theory. I design and validate control systems in research and industry — from a robotics lab at **AIST** in Tokyo to firmware for **VantTec's** autonomous vehicles — and now run an independent practice delivering full-cycle hardware-software products, from PCB to firmware to validated control, for clients in industrial, medical, and agricultural sectors.
+I'm a Mechatronics Engineer working at the intersection of embedded firmware, avionics hardware, and control theory. I design and validate control systems in research and industry — from a robotics lab at **AIST** in Tokyo to firmware for **VantTec's** autonomous vehicles — and now run an independent practice delivering full-cycle hardware-software products, from PCB to firmware to validated control, for clients in different sectors.
 
 **🌐 Portfolio site — coming soon.**
 
